@@ -2,7 +2,7 @@
 <h3 align = center> A smooth telegram music bot with high quality songs </h3>
 
 <p align="center">
-<a href="https://python.org"><img src="https://telegra.ph/file/c1d95129f334e29ed4776.jpg" alt="made-with-python"></a>
+<a href="https://python.org"><img src="https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg" alt="made-with-python"></a>
 <br>
     
 </p>
@@ -52,7 +52,7 @@ thanks to the translators.
 Steps to deploy -
 
 `~Create a new github repository.
-~Import https://github.com/TwistBots/MusicPlayer.
+~Import https://github.com/TwistBots/SUSHILxSPAM/MusicPlayer.
 ~Copy your github repo.
 ~Paste https://dashboard.heroku.com/new?template=
 ~Paste the above link in telegram saved messages.
@@ -106,11 +106,11 @@ New languages, bug fixes and improvements following
 
 ## ■ <a name="supports"></a>Supports
 
-For any kind of help join [Group](https://t.me/SecretGroupC).
+For any kind of help join [Group](https://t.me/clan8xofficial).
 
 ## ■ <a name="credits"></a>Credits
 
-- [Me](https://github.com/TwistBots) for [Noting](https://github.com/TwistBots/MusicPlayer)
+- [Me](https://github.com/SUSHILxSPAM) for [Noting](https://github.com/TwistBots/MusicPlayer)
 
 ## ■ <a name="license"></a>License
 
